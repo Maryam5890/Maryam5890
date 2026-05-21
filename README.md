@@ -9,4 +9,4 @@ My background is in laboratory science, which taught me that clean, accurate dat
 
 📊 [View My Portfolio](https://maryam5890.github.io/Solihu_Mariyam_Omotinuola_Data-Analysis_Portfolio/)
 📬 solihumaryam2018@gmail.com
-![Mariyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maryam5890&show_icons=true&theme=default&title_color=1A6B9A&icon_color=E05A2B)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maryam5890)](https://github.com/anuraghazra/github-readme-stats)
