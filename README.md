@@ -1,5 +1,5 @@
 ## Hi there 👋
- I'm Mariyam — a Data Analyst and Biochemistry graduate from Nigeria.
+ I'm Mariyam, a Data Analyst and Biochemistry graduate from Nigeria.
 
 My background is in laboratory science, which taught me that clean, accurate data can directly affect real outcomes. I now apply that same precision using **HTML**, **CSS**, **Python**, **SQL**, and **Excel** across healthcare, sales, and industrial settings.
 
